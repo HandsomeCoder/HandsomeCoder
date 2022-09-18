@@ -21,5 +21,5 @@
 </a>
 
 <a href="https://g.dev/hm_shah">
-    <img src="assets/icons/gdg.svg" alt="Google Developer" width="21px"/>
+    <img src="assets/icons/gdg.svg" alt="Google Developer" width="21px" height="21px"/>
 </a>
