@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![Profile views](https://gpvc.arturio.dev/handsomecoder)
-
 ### Professional
 
 [<img src="assets/icons/linkedin.svg" alt="LinkedIn" width="21px"/>](https://www.linkedin.com/in/handsomecoder)
