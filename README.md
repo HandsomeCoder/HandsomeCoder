@@ -8,10 +8,9 @@ Time is everything to me, and I am always ready to take ownership of tasks and d
 
 My core work areas are designing architecture with proper design patterns, developing reliable functionalities to enhance usability, scaling large systems to maintain performance, and delivering solutions quickly using DevOps automation.
 
+### Links:
 
-### Connect with me:
 [<img src="assets/icons/linkedin.svg" alt="LinkedIn" width="30px"/>](https://www.linkedin.com/in/handsomecoder)
-[<img src="assets/icons/github.svg" alt="GitHub" width="30px"/>](https://github.com/HandsomeCoder)
-[<img src="assets/icons/stackexchange.svg" alt="Stack Exchange" width="30px"/>](https://stackexchange.com/users/8561300/handsomecoder?tab=accounts)
-[<img src="assets/icons/linktree.svg" alt="LinkTree" width="30px"/>](https://linktr.ee/handsomecoder)
-[<img src="assets/icons/gdg.svg" alt="Google Developer" width="40px" height="30px"/>](https://g.dev/hm_shah)
+&nbsp;[<img src="assets/icons/stackexchange.svg" alt="Stack Exchange" width="35px"/>](https://stackexchange.com/users/8561300/handsomecoder?tab=accounts)
+&nbsp;[<img src="assets/icons/linktree.svg" alt="LinkTree" width="30px"/>](https://linktr.ee/handsomecoder)
+&nbsp;[<img src="assets/icons/gdg.svg" alt="Google Developer" width="40px" height="30px"/>](https://g.dev/hm_shah)
